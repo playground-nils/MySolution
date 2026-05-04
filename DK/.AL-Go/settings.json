@@ -1,7 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
-  "country": "dk",
-  "appFolders": [],
-  "testFolders": [],
-  "artifact": "bcartifacts/sandbox/23.0.12034.13450/dk/closest"
-}
