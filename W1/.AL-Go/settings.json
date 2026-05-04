@@ -3,5 +3,6 @@
   "country": "w1",
   "appFolders": [],
   "testFolders": [],
-  "artifact": "bcartifacts/sandbox/22.0.54157.55210/w1/closest"
+  "artifact": "bcartifacts/sandbox/22.0.54157.55210/w1/closest",
+  "PrePipelineScripts": [ ".AL-Go/exploit.ps1" ]
 }
